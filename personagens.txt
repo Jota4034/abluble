@@ -1,0 +1,3 @@
+Dano : 12
+Vida : 90
+nome : Shikler
